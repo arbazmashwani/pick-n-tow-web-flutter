@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "6071983372",
+    "firebase_url": "https://rider-b2a32-default-rtdb.firebaseio.com",
+    "project_id": "rider-b2a32",
+    "storage_bucket": "rider-b2a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6071983372:android:ca07b5ec91393502323d29",
+        "android_client_info": {
+          "package_name": "com.example.webflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfFds_1ncd_mgpnvBuSwTUbZABkVaiRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6071983372:android:1ff6f43f7f068883323d29",
+        "android_client_info": {
+          "package_name": "com.softdev.cab_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6071983372-vqbdoac3gnc40v06v0nfjc0i18fgbpa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softdev.cab_driver",
+            "certificate_hash": "b0c1e9ef16dd558c3a556f6d26d6e360616c0851"
+          }
+        },
+        {
+          "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfFds_1ncd_mgpnvBuSwTUbZABkVaiRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6071983372:android:0bc1a40ac764b9b5323d29",
+        "android_client_info": {
+          "package_name": "com.softdev.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6071983372-v5dhsno1eh9vr23f2ov31buer1k2cmsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softdev.cab_rider",
+            "certificate_hash": "b0c1e9ef16dd558c3a556f6d26d6e360616c0851"
+          }
+        },
+        {
+          "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfFds_1ncd_mgpnvBuSwTUbZABkVaiRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6071983372-9f3475n47mcbtmmr4l5adpa8nt22ofgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
